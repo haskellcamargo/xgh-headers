@@ -1,6 +1,6 @@
 # XGH Headers
 
-Got an eXtreme Go Horse project? Well, you gonna need these headers!
+Got an eXtreme Go Horse project? Well, you're gonna need these headers!
 
 - For Bash, Python, LiveScript:
 ```python
@@ -25,7 +25,7 @@ Got an eXtreme Go Horse project? Well, you gonna need these headers!
 #                                  \_____________________________________________/
 ```
 
-- For C, PHP, Java
+- For C, PHP, Java:
 ```c
 /**
  *              ,
@@ -50,7 +50,7 @@ Got an eXtreme Go Horse project? Well, you gonna need these headers!
  */
 ```
 
-- For LISP, Hy, Clojure
+- For LISP, Hy, Clojure:
 ```lisp
 ;              ,
 ;             / \,,_  .'|
@@ -73,7 +73,7 @@ Got an eXtreme Go Horse project? Well, you gonna need these headers!
 ;                                  \_____________________________________________/
 ```
 
-- For Haskell
+- For Haskell:
 ```haskell
 {-
                ,
@@ -98,7 +98,7 @@ Got an eXtreme Go Horse project? Well, you gonna need these headers!
 -}
 ```
 
-- For OCaml, Pascal
+- For OCaml, Pascal:
 ```ocaml
 (*
               ,
